@@ -26,9 +26,8 @@ This app allows users to **add, complete, delete, and clear tasks** with **local
 4. Click **Delete** to remove a single task  
 5. Click **Clear All** to remove all tasks  
 
-## 🔹 Screenshots
-
-*(Add a screenshot of your app here for better presentation)*  
+## Live Demo
+[🌐 View Live Demo](https://maavia971.github.io/todo-list-app/)  
 
 ---
 
